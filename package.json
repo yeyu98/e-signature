@@ -1,0 +1,23 @@
+{
+  "name": "e-signature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeyu98/e-signature.git"
+  },
+  "keywords": [],
+  "author": "yeyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeyu98/e-signature/issues"
+  },
+  "homepage": "https://github.com/yeyu98/e-signature#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
